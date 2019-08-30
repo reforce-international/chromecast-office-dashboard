@@ -14,20 +14,17 @@ body {
 
 .header .television {
   width: 150px;
-  height: 150px;
+  height: 75px;
+}
+
+.color-pop {
+  color: #ff6309;
 }
 
 .form {
   background-color: #edeff1;
   padding: 40px 30px;
   border-radius: 6px;
-}
-
-.enterprise  {
-  margin: 20px;
-  font-size: 14px;
-  text-align: center;
-  color: #16A085;
 }
 
 .footer {
